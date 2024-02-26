@@ -1,0 +1,5 @@
+loguru~=0.7.2
+pyuseragents~=1.0.5
+beautifulsoup4~=4.12.3
+PyYAML~=6.0.1
+tls_client

@@ -1,0 +1,8 @@
+threads: 10
+proxy: username:password@ip:port
+urls:
+  - https://www.indeed.com/cmp/Spark-Driver-1/reviews
+#  - https://www.indeed.com/cmp/Teleperformance/reviews
+#  - https://www.indeed.com/cmp/Hobby-Lobby/reviews
+#  - https://www.indeed.com/cmp/Ulta/reviews
+#  - https://www.indeed.com/cmp/Texas-Roadhouse/reviews
